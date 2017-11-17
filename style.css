@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  text-transform: capitalize;
+  background-color: tomato;
+}
+main{
+  margin-top: -20px;
+}
+.links{
+  background-color: green;
+  display: flex;
+  flex-direction: column;
+
+}
+.yellow{
+  background-color: yellow;
+
+}
+.text{
+
+}
+.image{
+  display: none
+}
+.gray{
+background-color: gray;
+}
